@@ -9,7 +9,7 @@ This project involves exploring techniques like:
 - Text preprocessing
 - Feature extraction
 - Model training
-- Evaluating the models for their effectiveness in classifying property valuation models
+- Evaluating the models for their effectiveness in classifying property valuation models.
 
 You can learn more about the college by visiting the official website of Pillai College of Engineering.
 
