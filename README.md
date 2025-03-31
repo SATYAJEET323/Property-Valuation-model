@@ -89,4 +89,5 @@ This study highlights the strengths and limitations of different approaches, gui
 ---
 
 This README file serves as comprehensive documentation for the **Property Valuation Model** project, summarizing its objectives, methodologies, algorithms used, and key findings.
+----
 
